@@ -1,4 +1,4 @@
-# rll-lib
+# Readme
 MATLAB library for runlength-limited (RLL) coding. This library contains encoders and decoders, to utilize the RLL codes derived in [1], [2]. The functions can, e.g., be used to implement zero-crossing modulation (ZXM).
 
 ## Getting Started
